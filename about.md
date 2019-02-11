@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome...
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+### ..--''" What if ... ? ""--..
+I love technology, the challenges it provides, and the way it brings us together; Every day I get an opportunity to help people AND make a difference. 
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[LinkedIn](https://www.linkedin.com/in/jra3345/)
+[EMail](mailto:jarhed323@gmail.com)
