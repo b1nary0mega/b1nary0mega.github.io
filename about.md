@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Welcome...
-
 ### ..--''" What if ... ? ""--..
 I love technology, the challenges it provides, and the way it brings us together; Every day I get an opportunity to help people AND make a difference. 
 
