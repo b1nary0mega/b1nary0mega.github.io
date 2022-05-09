@@ -1,10 +1,10 @@
 # Building out a lab - DC Edition
 
-☣️**Do NOT use in production!** In now way should *any* of the below content be utilized for or in a production environment. Additionally, **All** machines should be segmented off from everything you love and hold dear (or even slightly care about), within your network. You have been warned.
+☣️CAUTION: **Do NOT use in production!** In now way should *any* of the below content be utilized for or in a production environment. Additionally, **All** machines should be segmented off from everything you love and hold dear (or even slightly care about), within your network. You have been warned.
 
 🛑IMPORTANT: This exercise utilizes [VirtualBox](https://www.virtualbox.org/). Make sure you understand [how VirtualBox networking works](https://www.youtube.com/watch?v=qasi0j_tgsg).
 
-💡Note: Unless explicity called out, use default options.
+💡NOTE: Unless explicity called out, use default options.
 
 ## Building the VM
 
