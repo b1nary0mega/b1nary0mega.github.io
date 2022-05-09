@@ -1,2 +1,1 @@
-# jamesaylesworth.github.io
-blog
+# b1nary0mega.github.io
